@@ -115,11 +115,11 @@ I have a deep understanding of how to create robust and scalable web application
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
     </a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxoralbay&show_icons=true&locale=en&layout=compact" alt="maxoralbay" /></p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=maxoralbay&theme=dark&hide_border=false&include_all_commits=true&count_private=true) <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=maxoralbay&theme=dark&hide_border=false) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mercyharbo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📊 My GitHub Data:
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=maxoralbay&show_icons=true" />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
