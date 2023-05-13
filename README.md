@@ -54,7 +54,7 @@ I have a deep understanding of how to create robust and scalable web application
 </p>
 
 
-## 🛠️ Technologies and Tools I use:
+## 🛠️ Tech Stack:
 
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
@@ -116,7 +116,7 @@ I have a deep understanding of how to create robust and scalable web application
     </a>
 </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maxoralbay&theme=dark&hide_border=false&include_all_commits=true&count_private=true) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maxoralbay&theme=dark&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mercyharbo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
