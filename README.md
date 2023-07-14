@@ -18,7 +18,7 @@ Here are some ideas to get you started: -->
 
 Hello, I am **Maxat**, and I am a full-stack developer with 6 years of experience in web development. 
 
-I have a deep understanding of how to create robust and scalable web applications and web3 I have experience in developing web applications using
+I have a deep understanding of how to create robust and scalable web applications and web3. I have experience in developing web applications using
 
 * PHP, JavaScript, Lua, Python,
 * Django, NodeJS, React, Docker, REST API, RPC
@@ -38,7 +38,7 @@ I have a deep understanding of how to create robust and scalable web application
 
 - 📫 Telegram **@maxoralbay**
 
-- 📄 Know about my experiences [devmax.kz](devmax.kz)
+- 📄 Know about my experiences [CV](https://github.com/maxoralbay/cv/blob/main/Full-stack-web-developer-Maxat-Oralbay_2.pdf)
 
 - ⚡ Fun fact **I like a dark humor and history**
 
