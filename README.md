@@ -36,7 +36,7 @@ I have a deep understanding of how to create robust and scalable web application
 
 - 💬 Ask me about **Laravel, Django, Symfony, Web3, blockchain, trading**
 
-- 📫 Telegram **@maxoralbay**
+- 📫 Telegram **[@maxoralbay](https://t.me/maxoralbay)**
 
 - 📄 Know about my experiences [CV](https://github.com/maxoralbay/cv/blob/main/Full-stack-web-developer-Maxat-Oralbay_2.pdf)
 
