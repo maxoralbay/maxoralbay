@@ -8,7 +8,6 @@ Here are some ideas to get you started: -->
 </div>
  <br/-->
 
-<h3 align="center">A passionate web developer from Kazakhstan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxoralbay&label=Profile%20views&color=0e75b6&style=flat" alt="maxoralbay" /> </p>
 
@@ -30,7 +29,7 @@ I have a deep understanding of how to create robust and scalable web application
 
 - 🔭 I’m currently working on **Devex Service**
 
-- 🌱 I’m currently learning **Laravel, Django, Symfony, Web3**
+- 🌱 I’m currently learning **Django, Laravel, Web3, Alog-trading**
 
 - 📝 I regularly write articles on [dev.to, medium.com](dev.to, medium.com)
 
