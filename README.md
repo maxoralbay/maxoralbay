@@ -31,7 +31,7 @@ I have worked on projects ranging from real-time APIs and microservices to tradi
 - 📝 Writing on [dev.to, medium.com](https://dev.to/)  
 - 💬 Ask me about **FastAPI, React.js, Machine Learning, trading systems**  
 - 📫 Telegram: **[@maxoralbay](https://t.me/maxoralbay)**  
-- 📄 My CV: [Link](https://github.com/maxoralbay/cv/blob/main/Full-stack-web-developer-Maxat-Oralbay_2.pdf)  
+- 📄 My CV: [Link](https://github.com/maxoralbay/cv/blob/main/cv_eng.pdf)  
 - ⚡ Fun fact: **I like dark humor and history**  
 
 ---
