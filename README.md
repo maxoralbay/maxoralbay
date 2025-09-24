@@ -30,7 +30,7 @@ I have worked on projects ranging from real-time APIs and microservices to tradi
 - 🌱 Currently learning **Machine Learning, MLOps, advanced system design**  
 - 📝 Writing on [dev.to, medium.com](https://dev.to/)  
 - 💬 Ask me about **FastAPI, React.js, Machine Learning, trading systems**  
-- 📫 Telegram: **[@maxoralbay](https://t.me/maxoralbay)**  
+- 📫 Telegram: **[mazezone8](https://t.me/mazezone8)**  
 - 📄 My CV: [Link](https://github.com/maxoralbay/cv/blob/main/cv_eng.pdf)  
 - ⚡ Fun fact: **I like dark humor and history**  
 
